@@ -8,7 +8,6 @@
 
 #import "MainViewController.h"
 #import "PJTabBarItem.h"
-#import "HongbaoFloatView.h"
 #import "CycleScrollView.h"
 #import "HttpLoginAndRegister.h"
 #import "MainDataModel.h"
